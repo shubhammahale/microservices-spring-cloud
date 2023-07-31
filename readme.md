@@ -10,3 +10,7 @@ http://localhost:8761/
 
 API Gateway
 http://localhost:8765/
+
+EG:
+http://localhost:8765/currency-conversion/currency-conversion-feign/from/EUR/to/INR/quantity/3
+http://localhost:8765/currency-exchange/currency-exchange/from/USD/to/INR
